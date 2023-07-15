@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.Cabecalho{ 
+    padding:20px 0px;
+    background-image: linear-gradient(to right,#D2691E,#8B4513);
+    margin: 0;
+}
